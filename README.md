@@ -8,7 +8,7 @@
 
 Here are some quick things about me:
 
-- 🔭 I’m the author of go-zero, go-stash, go-queue, chatbot.
+- 🔭 I’m the author of go-zero.
 - 📫 The best way to reach me is sending me an email.
 - ⚡ Coding is my passion.
 
