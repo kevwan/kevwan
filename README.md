@@ -12,6 +12,8 @@ Here are some quick things about me:
 - 📫 The best way to reach me is sending me an email.
 - ⚡ Coding is my passion.
 
+<a href="https://trendshift.io/developers/3198" target="_blank"><img src="https://trendshift.io/api/badge/developers/3198" alt="kevwan | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevwan&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevwan&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevwan&theme=github)
